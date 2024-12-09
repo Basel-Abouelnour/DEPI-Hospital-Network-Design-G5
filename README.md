@@ -1,4 +1,4 @@
-# DEPI Hospital Network Design (Group 5)
+# DEPI Hospital Network Design
 
 Welcome to the **DEPI Hospital Network Design Project** repository! This project demonstrates a highly redundant network design for a hospital, focusing on robust connectivity, efficient traffic management, and secure communication. 
 
