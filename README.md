@@ -27,7 +27,7 @@ This repository contains the hospital's network design aimed at ensuring **high 
 - DHCP and NAT for efficient IP management.
 
 ### 4. **CCNP Topics Included**
-- OSPF multi-area routing for improved scalability.
+- OSPF routing for improved scalability in future work.
 - Usage of VTP (VLAN Trunking Protocol) and its disabling after configuration to follow security best practices.
 - HSRP (Hot Standby Router Protocol) for gateway redundancy.
 
@@ -58,7 +58,7 @@ This repository contains the hospital's network design aimed at ensuring **high 
 ## How to Use
 
 1. Download the `DEPI_Hospital_Network.pkt` file.
-2. Open it in **Cisco Packet Tracer** (Version X or later).
+2. Open it in **Cisco Packet Tracer** (Version 8.2.2 or later).
 3. Explore the topology, configurations, and test the redundancy, protocols, and security features.
 
 ---
