@@ -8,6 +8,8 @@ The network is implemented using **Cisco Packet Tracer**, incorporating a wide r
 
 This repository contains the hospital's network design aimed at ensuring **high availability**, **scalability**, and **fault tolerance**. The design includes redundant devices and configurations, meeting the critical demands of a hospital environment.
 
+![Network Design](Final-Project-resize.png)
+
 ---
 
 ## Key Features
