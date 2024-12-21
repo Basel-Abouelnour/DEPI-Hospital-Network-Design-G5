@@ -4,6 +4,16 @@ Welcome to the **DEPI Hospital Network Design Project** repository! This project
 
 The network is implemented using **Cisco Packet Tracer**, incorporating a wide range of **CCNA** concepts and some **CCNP ENCOR** advanced protocols.
 
+---
+
+## About the Project
+
+This project was developed as part of the **DEPI Technical Program** for the Cisco Network Administration track. It reflects the knowledge gained in:
+- **CCNA**: Comprehensive study of foundational networking protocols and configurations.
+- **CCNP ENCOR**: Advanced enterprise networking techniques.
+
+---
+
 ## Overview
 
 This repository contains the hospital's network design aimed at ensuring **high availability**, **scalability**, and **fault tolerance**. The design includes redundant devices and configurations, meeting the critical demands of a hospital environment.
@@ -64,9 +74,3 @@ This repository contains the hospital's network design aimed at ensuring **high 
 3. Explore the topology, configurations, and test the redundancy, protocols, and security features.
 
 ---
-
-## About the Project
-
-This project was developed as part of the **DEPI Technical Program** for the Cisco Network Administration track. It reflects the knowledge gained in:
-- **CCNA**: Comprehensive study of foundational networking protocols and configurations.
-- **CCNP ENCOR**: Advanced enterprise networking techniques.
